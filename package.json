@@ -1,0 +1,28 @@
+{
+  "name": "Sprint-Challenge-Node-Express",
+  "version": "1.0.0",
+  "description": ".\r ## Assignments",
+  "main": "knexfile.js",
+  "scripts": {
+    "start": "nodeman index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omaddoc/Sprint-Challenge-Node-Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omaddoc/Sprint-Challenge-Node-Express/issues"
+  },
+  "homepage": "https://github.com/omaddoc/Sprint-Challenge-Node-Express#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "helmet": "^3.15.0",
+    "knex": "^0.15.2",
+    "morgan": "^1.9.1",
+    "sqlite3": "^4.0.4"
+  }
+}
